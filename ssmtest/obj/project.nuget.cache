@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "57Ztw+Dkz5u41MrFgzKS4Zyxl83mf8yNmrQBdkPwdA0q0bEpQjaUc0H57UfqSdBF0AXpSk5RaC1vb0x2XyVJ4Q==",
+  "success": true,
+  "projectFilePath": "/ssmtest/ssmtest.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/awssdk.core/3.5.1.17/awssdk.core.3.5.1.17.nupkg.sha512",
+    "/root/.nuget/packages/awssdk.simplesystemsmanagement/3.5.1.18/awssdk.simplesystemsmanagement.3.5.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
